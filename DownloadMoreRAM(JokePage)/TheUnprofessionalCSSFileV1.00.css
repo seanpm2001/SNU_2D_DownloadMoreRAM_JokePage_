@@ -1,0 +1,49 @@
+/* Unprofessional CSS file */
+/* Comic Sans is a font that is no longer viewed as professional due to its usage. This is perfect for the joke pages it will be used for
+Comic Sans is still a good font. Misuse of the font led to people disliking it. */
+/* Start of srylesheet */
+p {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	color: black;	
+}
+i {
+		font-family: "Comic Sans MS", "Comic Sans", cursive;
+	color: black;	
+}
+/*a {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	color: black;	
+}*/
+b {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	color: black;	
+}
+H1 {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	color: black;	
+}
+H2 {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	color: black;	
+}
+H3 {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	color: black;	
+}
+H4 {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	color: black;	
+}
+H5 {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	color: black;	
+}
+H6 {
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	color: black;	
+}
+H1_PRO {
+	font-family: "Times New Roman", Times, serif;
+	color: black;
+}
+/* End of stylesheet */
